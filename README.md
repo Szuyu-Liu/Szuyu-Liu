@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Szuyu-Liu
-- 👀 I’m a graduate student major in Mechatronic Engiineering. 
-- 🌱 This website is used for document the project I've done.
+- 👋 Hi, I’m Szu-yu, Liu
+- 👀 I’m a graduate student major in Mechatronic Engineering. 
+- 🌱 This website is used for documenting the projects I have done. 
 - 💞️ 
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 Szuyu-Liu/Szuyu-Liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
