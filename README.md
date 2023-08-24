@@ -2,7 +2,7 @@
 - 👀 I’m a graduate student major in Mechatronic Engineering. 
 - 🌱 National Changhua University of Education, Taiwan 
 - 💞️ This website is used for documenting the projects I have done.
-- 📫 szuyuliu41@gmail.com
+
 
 <!---
 Szuyu-Liu/Szuyu-Liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
