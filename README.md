@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Szuyu
-- 👀 I’m a graduate student major in Mechatronic Engineering. 
-- 🌱 National Changhua University of Education, Taiwan 
-- 💞️ This website is used for documenting the projects I have done.
+- 👋 Szu-Yu Liu
 
 
 <!---
